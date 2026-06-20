@@ -80,6 +80,7 @@ The work was conducted at the Research Center for Enzymology and Applied Biocata
 - Ranked reaction conditions by conversion performance
 - Generated data-driven recommendations for process optimization
 - Supported development of a quantitative process model
+- Findings in more detail can be found on the poster presented at International Conference Students for Students (2024)
 
 Conversion of kinetic resolution reaction after 2 hours in studied cosolvents' case compared to conversion using DMSO as cosolvent:
 <img width="896" height="583" alt="image" src="https://github.com/user-attachments/assets/c3b9ef36-139b-4dc6-a490-499a1edbe505" />
