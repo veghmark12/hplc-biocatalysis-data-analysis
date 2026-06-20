@@ -85,10 +85,10 @@ Conversion of kinetic resolution reaction after 2 hours in studied cosolvents' c
 <img width="896" height="583" alt="image" src="https://github.com/user-attachments/assets/c3b9ef36-139b-4dc6-a490-499a1edbe505" />
 
 Percentages of conversion for best cosolvents after 15 minutes and after 2 hours compared with DMSO:
-<img width="883" height="350" alt="image" src="https://github.com/user-attachments/assets/a7c07c65-df87-4020-a66e-3b708cebb41e" />
+<img width="896" height="350" alt="image" src="https://github.com/user-attachments/assets/a7c07c65-df87-4020-a66e-3b708cebb41e" />
 
 Percentage of final conversion reached after 2 hours in the case of each cosolvent:
-<img width="885" height="270" alt="image" src="https://github.com/user-attachments/assets/e7ba384d-3a60-44e8-b74a-1ff01276a9cb" />
+<img width="896" height="270" alt="image" src="https://github.com/user-attachments/assets/e7ba384d-3a60-44e8-b74a-1ff01276a9cb" />
 
 ## Research Impact
 
